@@ -1,0 +1,11 @@
+C:\Users\ariyas\source\repos\ValidationApp\ValidationApp\bin\Debug\ValidationApp.exe.config
+C:\Users\ariyas\source\repos\ValidationApp\ValidationApp\bin\Debug\ValidationApp.exe
+C:\Users\ariyas\source\repos\ValidationApp\ValidationApp\bin\Debug\ValidationApp.pdb
+C:\Users\ariyas\source\repos\ValidationApp\ValidationApp\obj\Debug\ValidationApp.csproj.AssemblyReference.cache
+C:\Users\ariyas\source\repos\ValidationApp\ValidationApp\obj\Debug\ValidationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ariyas\source\repos\ValidationApp\ValidationApp\obj\Debug\ValidationApp.Form1.resources
+C:\Users\ariyas\source\repos\ValidationApp\ValidationApp\obj\Debug\ValidationApp.Properties.Resources.resources
+C:\Users\ariyas\source\repos\ValidationApp\ValidationApp\obj\Debug\ValidationApp.csproj.GenerateResource.cache
+C:\Users\ariyas\source\repos\ValidationApp\ValidationApp\obj\Debug\ValidationApp.csproj.CoreCompileInputs.cache
+C:\Users\ariyas\source\repos\ValidationApp\ValidationApp\obj\Debug\ValidationApp.exe
+C:\Users\ariyas\source\repos\ValidationApp\ValidationApp\obj\Debug\ValidationApp.pdb
